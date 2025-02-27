@@ -1,10 +1,8 @@
 1) Project introduction
-2) Understaing & exploring functionality (FRS - Functional requirement specification)
-3) Test Plan
-4) Writing test case scenarios
-5) Writing test cases, reviews & RTM
-6) Environment Setup & Build deployment
-7) Test Execution
-8) Bug Reporting & Tracking
-9) Sanity Testing, Re-Testing & Regression Testing
-10) Test Sign Off
+2) Understanding and exploring functionality with stakeholders
+3) Writing test case scenarios
+4) Environment setup or build deployment
+5) Test execution
+6) Bug reporting and tracking
+7) Regression testing
+8) Sign off with stakeholders
